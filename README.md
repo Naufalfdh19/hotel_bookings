@@ -6,8 +6,11 @@ To build a predictive model that classifies whether a hotel booking will be canc
 
 # 🧠 Model Highlights
 Total features: 25+
+
 Best model: Random Forest
+
 Achieved:
 - Accuracy: 1.00
 - F1 Score: 1.00
+- 
 Performed both with and without PCA for dimensionality reduction

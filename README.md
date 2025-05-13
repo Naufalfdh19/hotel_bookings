@@ -10,7 +10,8 @@ Total features: 25+
 Best model: Random Forest
 
 Achieved:
-- Accuracy: 1.00
-- F1 Score: 1.00
-  
-Performed both with and without PCA for dimensionality reduction
+- Accuracy: 0.86
+- F1 Score
+  - Canceled: 0.75
+  - Not Canceled: 0.91
+
